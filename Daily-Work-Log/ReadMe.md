@@ -1,4 +1,4 @@
-## How to use the template
+## How to use this template
 
 ### Please ensure the below plugin are installed in obsidian
 1. Dataview
