@@ -28,7 +28,7 @@ Note: You can choose any name of the file or the folder, Generally it is recomme
 
 
 Setup and use hotkeys (for my case `ctrl+Shift+D`) for creating the templates. Additionally, you can also create hotkeys for inserting the template if needed:
-![[6.png]]
+<img alt="6.png" src="media/img/6.png" />
 
 Note: Using hotkeys will create a `untitled` file with log message `✅ Created and opened new Daily Log for ....`
 
