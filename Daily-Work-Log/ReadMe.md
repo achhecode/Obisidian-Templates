@@ -4,12 +4,12 @@
 1. Dataview
 2. Templater
 
-![/media/img/1.png](1.png)
+<img alt="1.png" src="media/img/1.png" />
 
 Note: Please make sure core **Templates** plugin is disabled before installing **Templater**
-![/media/img/2.png](2.png)
+<img alt="2.png" src="media/img/2.png" />
 and add `Templates` folder in `Template folder location`
-![/media/img/5.png](5.png)
+<img alt="5.png" src="media/img/5.png" />
 
 ### Create a new files `Daily-Work-Template` inside folder `Templates`
 
@@ -17,14 +17,14 @@ Note: You can choose any name of the file or the folder, Generally it is recomme
 
 ##### Paste the below code in the `Daily-Work-Template` file or just put the files [[Daily-Work-Template-1]] in `Templates` folder.
 
-![/media/img/3.png](3.png)
+<img alt="3.png" src="media/img/3.png" />
 
 ### We have 2 options to create the template: 
 
 1. Template hotkeys
 2. Startup templates
 
-![/media/img/4.png](4.png)
+<img alt="4.png" src="media/img/4.png" />
 
 
 Setup and use hotkeys (for my case `ctrl+Shift+D`) for creating the templates. Additionally, you can also create hotkeys for inserting the template if needed:
